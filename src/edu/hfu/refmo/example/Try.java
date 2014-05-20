@@ -13,7 +13,7 @@ public class Try {
 	
 	public void test_try(){
 		
-/*
+/*a  
 		new Rule().get(1, 2, 3).to_json();
 		new Rule().get(1, 2, 3).to_xml();	
 		new Rule().get(1, 2, 3).save();
